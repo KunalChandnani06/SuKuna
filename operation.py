@@ -6,3 +6,5 @@ print(a+b)
 print(a*b)
 #division
 print(a/b)
+#substraction
+print(a-b)
