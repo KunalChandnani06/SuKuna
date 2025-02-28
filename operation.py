@@ -13,3 +13,6 @@ print(a%b)
 #addition and division
 c=22
 print((a+b)/c)
+#comparision
+if a>b:
+    print("a is greater than b")
