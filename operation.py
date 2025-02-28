@@ -8,3 +8,5 @@ print(a*b)
 print(a/b)
 #substraction
 print(a-b)
+#modulo
+print(a%b)
