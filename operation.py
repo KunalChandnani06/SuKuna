@@ -16,3 +16,9 @@ print((a+b)/c)
 #comparision
 if a>b:
     print("a is greater than b")
+else:
+    print("b is greater than a")
+if a>b and a<c:
+    print("c is greater than a and b")
+else:
+    print("a is greater than both")
